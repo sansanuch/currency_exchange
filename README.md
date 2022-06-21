@@ -6,6 +6,9 @@ composer install
 //start migrate
 
 php yii migrate
+
+//start server
+php yii serve
 ---------------------------
 
 ---------------------------
