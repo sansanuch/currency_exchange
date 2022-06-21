@@ -52,6 +52,11 @@ $config = [
         ],
         */
     ],
+    'modules' => [
+        'exchange_rate' => [
+            'class' => 'app\modules\exchange_rate\Module',
+        ],
+    ],
     'params' => $params,
 ];
 
