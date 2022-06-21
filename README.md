@@ -8,6 +8,7 @@ composer install
 php yii migrate
 
 //start server
+
 php yii serve
 ---------------------------
 
