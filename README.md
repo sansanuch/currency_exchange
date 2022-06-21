@@ -21,7 +21,7 @@ http://localhost:8080/index.php?r=generate/generate
 ---------------------------
 
 ---------------------------
-go -> http://localhost:8080/login  
+go -> http://localhost:8080/index.php?r=site%2Flogin
 
 user = test1 password = 12345678
 ---------------------------
