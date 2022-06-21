@@ -3,10 +3,12 @@ composer install
 ----------------------------
 
 ---------------------------
-//start migrate
+//start migrations
 
 php yii migrate
+---------------------------
 
+---------------------------
 //start server
 
 php yii serve
